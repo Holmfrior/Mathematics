@@ -3,8 +3,7 @@ Math concepts explored through Google Collab Notebooks
 
 ## Current Focus: Linear Algebra
 **Week 1**
-- [x] Geometric interpretation, addition, and scalar multiplication.
-- [x]  Dot product, Hadamard product, and Outer product.
+- [x] Geometric interpretation, substraction and plotting
 - [x] Understanding Span, Basis, and Linear Independence.
 
 **Week 2**
