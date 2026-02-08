@@ -3,7 +3,7 @@ Math concepts explored through Google Collab Notebooks
 
 ## Current Focus: Linear Algebra
 **Week 1**
-- [x] Geometric interpretation, substraction and plotting
+- [x] Geometric interpretation, subtraction and plotting
 - [x] Understanding Span, Basis, and Linear Independence.
 
 **Week 2**
@@ -13,7 +13,7 @@ Math concepts explored through Google Collab Notebooks
 
 
 ## Tech Stack
-* Numpy, Matplotli, Plotly
+* Numpy, Matplotlib, Plotly
 * Implemented in Google Collab
 
 
