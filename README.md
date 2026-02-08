@@ -20,7 +20,7 @@ Math concepts explored through Google Collab Notebooks
 
 ## How to Run
 1. Click the **Open in Colab** badge above.
-2. Navigate to the `linear-algebra` folder.
+2. Navigate to the any chosen folder
 3. Open any notebook to run the code directly in your browser.
 
 
