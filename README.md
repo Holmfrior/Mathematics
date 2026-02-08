@@ -13,10 +13,8 @@ Math concepts explored through Google Collab Notebooks
 
 
 ## Tech Stack
-* **Mathematics:** Python (NumPy)
-* **Visualization:** Matplotlib, Plotly (Interactive graphs)
-* **Environment:** Google Colab
-  
+* Numpy, Matplotli, Plotly
+* Implemented in Google Collab
 
 
 
