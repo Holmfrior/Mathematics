@@ -12,6 +12,11 @@ Math concepts explored through Google Collab Notebooks
 - [x] Building the k-Means Clustering algorithm from scratch.
 
 
+**Week 3**
+- [x] Matrix Multiplication
+
+
+
 ## Tech Stack
 * Numpy, Matplotlib, Plotly
 * Implemented in Google Collab
