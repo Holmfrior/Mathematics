@@ -2,7 +2,7 @@
 Math concepts explored through Google Collab Notebooks
 
 ## Current Focus: Linear Algebra & Statistics
-#Linear Algebra
+Linear Algebra
 **Week 1**
 - [x] Geometric interpretation, subtraction and plotting
 - [x] Understanding Span, Basis, and Linear Independence.
