@@ -15,7 +15,7 @@ Math concepts explored through Google Collab Notebooks
 **Week 3**
 - [x] Matrix Multiplication
 - [X] Visualization of Matrix
-- [ ] Visualization of Sub-Matrix
+- [X] Visualization of Sub-Matrix
 
 
 
